@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: create-react-app-template-azure
-  title: Create React App Template Azure
-  description: Create a new CRA website project in Azure
+  name: create-doc-template-azure
+  title: Create Doc Template Azure
+  description: Create a new Doc in Azure
   tags:
-    - react
+    - documentation
     - cra
     - azure
 spec:
